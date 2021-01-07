@@ -1,0 +1,15 @@
+{
+    "name": "blaze-mathew",
+    "description": "A theme for blaze.com",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+    "author": {
+        "name": "Blaze Mathew",
+        "email": "blazemathew987@gmail.com"
+    },
+    "config": {
+        "posts_per_page": 3
+    }
+}
